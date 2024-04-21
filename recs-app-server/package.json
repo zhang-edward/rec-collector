@@ -1,0 +1,19 @@
+{
+	"name": "recs-app-server",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"test": "test"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.19.2",
+		"ws": "^8.16.0"
+	},
+	"devDependencies": {
+		"@types/express": "^4.17.21"
+	}
+}
